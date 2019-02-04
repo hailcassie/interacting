@@ -27,7 +27,7 @@ main {
 	height: 20em;
 	border-radius: 50%;
 	overflow: hidden;
-    background-image: url(images/earth.jpg);
+    background-image: url(earth.jpg);
     background-size: 125%;
     background-position: center;
 	transform: scale(0.25) rotate(0deg);
